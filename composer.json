@@ -1,6 +1,8 @@
 {
   "name": "tworzenieweb/boilerplate",
   "description": "A dummy composer project to make things faster",
+  "minimum-stability": "stable",
+  "license": "MIT",
   "authors": [
     {
       "name": "Luke Adamczewski",
