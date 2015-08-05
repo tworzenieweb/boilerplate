@@ -11,3 +11,10 @@ Ideas:
 - use phpspec for generating skeletons and testing
 - use behat for BDD
 - use phpcs for testing all against coding standard
+
+
+## Usage
+
+`php composer.phar create-project tworzenieweb/boilerplate path dev-master`
+
+where `path` is the place where you want to init project.
