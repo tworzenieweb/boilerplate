@@ -1,0 +1,23 @@
+{
+  "name": "tworzenieweb/boilerplate",
+  "description": "A dummy composer project to make things faster",
+  "authors": [
+    {
+      "name": "Luke Adamczewski",
+      "email": "tworzenieweb@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Phpe\\": "src/"
+    }
+  },
+  "require": {
+    "pimple/pimple": "^3.0"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "^2.2",
+    "memio/spec-gen": "^0.4",
+    "everzet/persisted-objects": "^1.0"
+  }
+}

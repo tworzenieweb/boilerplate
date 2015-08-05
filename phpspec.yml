@@ -1,0 +1,7 @@
+suites:
+    phpe_suit:
+        namespace: Phpe
+        psr4_prefix: Phpe
+
+extensions:
+  - Memio\SpecGen\MemioSpecGenExtension
